@@ -1,0 +1,27 @@
+{
+    "name" : "Hari",
+    "value" : 100,
+    "children" : [
+      {
+          "name" : "Krishna",
+          "value" : 75,
+          "children" : [
+                {   "name": "Radha", "value": 25  },
+                {   "name": "Duja", "value": 25   },
+                {   "name": "Puja", "value": 25   }
+          ]
+      },
+      {
+          "name" : "Leela",
+          "value" : 75,
+          "children" : [
+              { "name" : "Fluffy" , "value" : 25 },
+              { "name" : "Koyna" , "value" : 25 }
+          ]
+      },
+      {
+        "name" : "Pushkar",
+        "value" : 75
+      }
+    ]
+}

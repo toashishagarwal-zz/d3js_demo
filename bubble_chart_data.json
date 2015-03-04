@@ -1,0 +1,14 @@
+{
+    "name" : "Hari",
+    "value" : 100,
+    "children" : [
+        { "name" : "krish" , "value": 123},
+        { "name" : "veena" , "value": 105},
+        { "name" : "radha" , "value": 117},
+        { "name" : "mohan" , "value": 100},
+        { "name" : "ruhan" , "value": 45},
+        { "name" : "rohan" , "value": 34},
+        { "name" : "ram" , "value": 3},
+        { "name" : "shyam" , "value": 13}
+    ]
+}

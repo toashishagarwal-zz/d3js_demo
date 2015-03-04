@@ -1,0 +1,388 @@
+{
+    "name" : "DAP",
+    "value" : 100,
+    "children" : 
+
+[
+    {
+        "lma_no": "2",
+        "lma_name": "Chevy of Abilene-Sweetwater, TX LMA",
+        "value": "8"
+    },
+    {
+        "lma_no": "4",
+        "lma_name": "Chevy of Albany, GA LMA",
+        "value": "4"
+    },
+    {
+        "lma_no": "7",
+        "lma_name": "Chevy of Amarillo, TX LMA",
+        "value": "4"
+    },
+    {
+        "lma_no": "10",
+        "lma_name": "Chevy of Augusta, GA LMA",
+        "value": "10"
+    },
+    {
+        "lma_no": "11",
+        "lma_name": "Chevy of Austin, TX LMA",
+        "value": "14"
+    },
+    {
+        "lma_no": "12",
+        "lma_name": "Chevy of Bakersfield, CA LMA",
+        "value": "12"
+    },
+    {
+        "lma_no": "13",
+        "lma_name": "Chevy of Baltimore, MD LMA",
+        "value": "10"
+    },
+    {
+        "lma_no": "15",
+        "lma_name": "Chevy of Baton Rouge, LA LMA",
+        "value": "25"
+    },
+    {
+        "lma_no": "16",
+        "lma_name": "Chevy of Beaumont-Port Arthur, TX LMA",
+        "value": "12"
+    },
+    {
+        "lma_no": "20",
+        "lma_name": "Chevy of Biloxi-Gulfport, MS LMA",
+        "value": "4"
+    },
+    {
+        "lma_no": "26",
+        "lma_name": "Chevy of Buffalo, NY LMA",
+        "value": "6"
+    },
+    {
+        "lma_no": "31",
+        "lma_name": "Chevy of Champaign et al, IL LMA",
+        "value": "6"
+    },
+    {
+        "lma_no": "32",
+        "lma_name": "Chevy of Charleston et al, WV LMA",
+        "value": "2"
+    },
+    {
+        "lma_no": "33",
+        "lma_name": "Chevy of Charleston, SC LMA",
+        "value": "8"
+    },
+    {
+        "lma_no": "34",
+        "lma_name": "Chevy of Charlotte, NC LMA",
+        "value": "5"
+    },
+    {
+        "lma_no": "40",
+        "lma_name": "Chevy of Cincinnati, OH LMA",
+        "value": "22"
+    },
+    {
+        "lma_no": "41",
+        "lma_name": "Chevy of Clarksburg-Weston, WV LMA",
+        "value": "27"
+    },
+    {
+        "lma_no": "46",
+        "lma_name": "Chevy of Columbus et al, MS LMA",
+        "value": "7"
+    },
+    {
+        "lma_no": "50",
+        "lma_name": "Chevy of Dallas-Ft. Worth, TX LMA",
+        "value": "8"
+    },
+    {
+        "lma_no": "53",
+        "lma_name": "Chevy of Denver, CO LMA",
+        "value": "13"
+    },
+    {
+        "lma_no": "54",
+        "lma_name": "Chevy of Des Moines-Ames, IA LMA",
+        "value": "32"
+    },
+    {
+        "lma_no": "58",
+        "lma_name": "Chevy of El Paso, TX LMA",
+        "value": "8"
+    },
+    {
+        "lma_no": "66",
+        "lma_name": "Chevy of Flint-Saginaw et al, MI LMA",
+        "value": "9"
+    },
+    {
+        "lma_no": "69",
+        "lma_name": "Chevy of Ft. Myers-Naples, FL LMA",
+        "value": "6"
+    },
+    {
+        "lma_no": "70",
+        "lma_name": "Chevy of Ft. Smith, AR LMA",
+        "value": "8"
+    },
+    {
+        "lma_no": "79",
+        "lma_name": "Chevy of Greenville et al, NC LMA",
+        "value": "4"
+    },
+    {
+        "lma_no": "80",
+        "lma_name": "Chevy of Greenville et al, SC-NC LMA",
+        "value": "3"
+    },
+    {
+        "lma_no": "83",
+        "lma_name": "Chevy of Harlingen et al, TX LMA",
+        "value": "24"
+    },
+    {
+        "lma_no": "86",
+        "lma_name": "Chevy of Hartford and New Haven, CT LMA",
+        "value": "9"
+    },
+    {
+        "lma_no": "89",
+        "lma_name": "Chevy of Honolulu, HI LMA",
+        "value": "8"
+    },
+    {
+        "lma_no": "90",
+        "lma_name": "Chevy of Houston, TX LMA",
+        "value": "9"
+    },
+    {
+        "lma_no": "94",
+        "lma_name": "Chevy of Jackson, MS LMA",
+        "value": "21"
+    },
+    {
+        "lma_no": "97",
+        "lma_name": "Chevy of Johnstown-Altoona, PA LMA",
+        "value": "11"
+    },
+    {
+        "lma_no": "101",
+        "lma_name": "Chevy of Kansas City, MO-KS LMA",
+        "value": "4"
+    },
+    {
+        "lma_no": "110",
+        "lma_name": "Chevy of Lexington, KY LMA",
+        "value": "9"
+    },
+    {
+        "lma_no": "113",
+        "lma_name": "Chevy of Little Rock et al, AR LMA",
+        "value": "36"
+    },
+    {
+        "lma_no": "115",
+        "lma_name": "Chevy of Louisville, KY LMA",
+        "value": "4"
+    },
+    {
+        "lma_no": "117",
+        "lma_name": "Chevy of Macon, GA LMA",
+        "value": "3"
+    },
+    {
+        "lma_no": "119",
+        "lma_name": "Chevy of Maine LMA",
+        "value": "11"
+    },
+    {
+        "lma_no": "124",
+        "lma_name": "Chevy of Miami-Ft. Lauderdale, FL LMA",
+        "value": "11"
+    },
+    {
+        "lma_no": "125",
+        "lma_name": "Chevy of Mid South LMA",
+        "value": "22"
+    },
+    {
+        "lma_no": "127",
+        "lma_name": "Chevy of Minneapolis-St. Paul, MN LMA",
+        "value": "50"
+    },
+    {
+        "lma_no": "130",
+        "lma_name": "Chevy of Mobile-Pensacola, AL-FL LMA",
+        "value": "12"
+    },
+    {
+        "lma_no": "215",
+        "lma_name": "Chevy of Modesto, CA LMA",
+        "value": "4"
+    },
+    {
+        "lma_no": "131",
+        "lma_name": "Chevy of Monroe-El Dorado, LA-AR LMA",
+        "value": "7"
+    },
+    {
+        "lma_no": "135",
+        "lma_name": "Chevy of Nashville, TN LMA",
+        "value": "4"
+    },
+    {
+        "lma_no": "136",
+        "lma_name": "Chevy of New Orleans, LA LMA",
+        "value": "34"
+    },
+    {
+        "lma_no": "140",
+        "lma_name": "Chevy of Odessa-Midland, TX LMA",
+        "value": "12"
+    },
+    {
+        "lma_no": "141",
+        "lma_name": "Chevy of Oklahoma City, OK LMA",
+        "value": "46"
+    },
+    {
+        "lma_no": "142",
+        "lma_name": "Chevy of Omaha, NE LMA",
+        "value": "43"
+    },
+    {
+        "lma_no": "145",
+        "lma_name": "Chevy of Paducah et al, KY-MO-IL LMA",
+        "value": "3"
+    },
+    {
+        "lma_no": "148",
+        "lma_name": "Chevy of Peoria-Bloomington, IL LMA",
+        "value": "42"
+    },
+    {
+        "lma_no": "149",
+        "lma_name": "Chevy of Philadelphia, PA LMA",
+        "value": "25"
+    },
+    {
+        "lma_no": "151",
+        "lma_name": "Chevy of Pittsburgh, PA LMA",
+        "value": "43"
+    },
+    {
+        "lma_no": "153",
+        "lma_name": "Chevy of Portland, OR LMA",
+        "value": "18"
+    },
+    {
+        "lma_no": "154",
+        "lma_name": "Chevy of Providence et al, RI-MA LMA",
+        "value": "14"
+    },
+    {
+        "lma_no": "166",
+        "lma_name": "Chevy of Sacramento et al, CA LMA",
+        "value": "1"
+    },
+    {
+        "lma_no": "169",
+        "lma_name": "Chevy of San Angelo, TX LMA",
+        "value": "3"
+    },
+    {
+        "lma_no": "170",
+        "lma_name": "Chevy of San Antonio, TX LMA",
+        "value": "8"
+    },
+    {
+        "lma_no": "172",
+        "lma_name": "Chevy of San Francisco et al, CA LMA",
+        "value": "1"
+    },
+    {
+        "lma_no": "174",
+        "lma_name": "Chevy of Savannah, GA LMA",
+        "value": "2"
+    },
+    {
+        "lma_no": "175",
+        "lma_name": "Chevy of Seattle-Tacoma, WA LMA",
+        "value": "13"
+    },
+    {
+        "lma_no": "176",
+        "lma_name": "Chevy of Sherman-Ada, TX-OK LMA",
+        "value": "11"
+    },
+    {
+        "lma_no": "177",
+        "lma_name": "Chevy of Shreveport, LA LMA",
+        "value": "8"
+    },
+    {
+        "lma_no": "180",
+        "lma_name": "Chevy of South Bend-Elkhart, IN LMA",
+        "value": "15"
+    },
+    {
+        "lma_no": "182",
+        "lma_name": "Chevy of Springfield-Holyoke, MA LMA",
+        "value": "17"
+    },
+    {
+        "lma_no": "185",
+        "lma_name": "Chevy of St. Louis, MO LMA",
+        "value": "14"
+    },
+    {
+        "lma_no": "187",
+        "lma_name": "Chevy of Tall/PC LMA",
+        "value": "3"
+    },
+    {
+        "lma_no": "188",
+        "lma_name": "Chevy of Tallahassee et al, FL-GA LMA",
+        "value": "1"
+    },
+    {
+        "lma_no": "189",
+        "lma_name": "Chevy of Tampa-St. Pete et al, FL LMA",
+        "value": "10"
+    },
+    {
+        "lma_no": "197",
+        "lma_name": "Chevy of Tyler-Longview et al, TX LMA",
+        "value": "16"
+    },
+    {
+        "lma_no": "200",
+        "lma_name": "Chevy of W. Palm Beach et al, FL LMA",
+        "value": "18"
+    },
+    {
+        "lma_no": "201",
+        "lma_name": "Chevy of Waco-Temple-Bryan, TX LMA",
+        "value": "12"
+    },
+    {
+        "lma_no": "206",
+        "lma_name": "Chevy of Wichita et al, KS LMA",
+        "value": "12"
+    },
+    {
+        "lma_no": "208",
+        "lma_name": "Chevy of Wilkes Barre et al, PA LMA",
+        "value": "13"
+    },
+    {
+        "lma_no": "214",
+        "lma_name": "Test Chevy LMA",
+        "value": "4"
+    }
+]
+}

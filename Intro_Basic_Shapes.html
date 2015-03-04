@@ -1,0 +1,63 @@
+<html>
+<head>
+  <title>D3 tutorial</title>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+  <p> This is a paragraph</p>
+  <script>
+
+      // D3-- Data Driven Documents - Intro
+      // ===================================
+      // Everything in d3 coding starts with the d3 object. Then there are methods
+      // defined on this object. e.g. select() is a method on d3 object
+
+      // The following code selects a paragraph p & changes its text to "Hello Wordl!!"
+      d3.select("p")
+        .text("Hello World!!");
+
+      // The following code selects the body tag, appends a paragraph tag,
+      // styles the text as red & changes its text to "Hi I am a bot"
+      d3.select("body")
+          .append("p")
+          .style("color","red")
+          .text("Hi I am a bot");
+
+      // Shapes
+      // ========
+      // To add a shape, we need a canvas ALWAYS. We cannot directly add the shape to
+      // the html.
+      // This canvas or container is the SVG
+
+      var canvas = d3.select("body")
+                      .append("svg")
+                      .attr("width", 500)
+                      .attr("height", 500);
+
+      // CIRCLE
+      var circle = canvas.append("circle")
+                          .attr("cx", 250)        // Coordinates of center
+                          .attr("cy", 250)
+                          .attr("r", 50)          // Radius value
+                          .attr("fill", "red");   // D3 refers to color as FILL property
+
+      // RECTANGLE
+      var rect = canvas.append("rect")
+                          .attr("width", 100)       // Here we have not mentioned the coordinates
+                          .attr("height", 50)       // Hence it will create at the top left corner of
+                          .attr("fill", "green");   // SVG
+
+
+      // LINE
+      var line = canvas.append("line")
+                        .attr("x1", 0)
+                        .attr("y1", 100)
+                        .attr("x2", 400)
+                        .attr("y2",200)
+                        .attr("stroke","blue")
+                        .attr("stroke-width",3);
+
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "name" : "Hari",
+  "children" : [
+        {
+              "name" : "Ram",
+              "children": [
+                    { "name" : "Nik" },
+                    { "name" : "Niki" },
+                    { "name" : "Nikhil" }
+              ]
+        },
+        {
+              "name" : "Shyam",
+              "children": [
+                    { "name" : "Salim" },
+                    { "name" : "Salil" }
+              ]
+        }
+  ]
+}

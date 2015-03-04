@@ -1,0 +1,15 @@
+{
+    "name" : "DAP",
+    "value" : 100,
+    "children" : [
+        { "name" : "Chevy of Abilene-Sweetwater, TX LMA" , "value": 8, "id": 1},
+        { "name" : "Chevy of Albany, GA LMA" , "value": 4, "id": 2},
+        { "name" : "Chevy of Amarillo, TX LMA" , "value": 4, "id": 3},
+        { "name" : "Chevy of Augusta, GA LMA" , "value": 10 },
+        { "name" : "Chevy of Austin, TX LMA" , "value": 14},
+        { "name" : "Chevy of Bakersfield, CA LMA" , "value": 12},
+        { "name" : "Chevy of Baltimore, MD LMA" , "value": 10},
+        { "name" : "Chevy of Baton Rouge, LA LMA" , "value": 25}
+    ]
+}
+
